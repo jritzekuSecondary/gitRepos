@@ -1,0 +1,9 @@
+Dev info here: jritzeku
+
+Name: Jigme Ritzekura
+Id: rt2730fw
+
+
+Description: 
+
+This is test to push to jritzekuSecondary GitHub repo with jritzeku GitHub account. At the moment, unable to push to our group's repo as I've not received invitation to collaborate so permission is being denied when attempt to push to that repo.
