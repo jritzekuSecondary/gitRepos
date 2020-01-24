@@ -2,7 +2,7 @@ Dev info here: jritzeku
 
 Name: Jigme Ritzekura
 Id: rt2730fw
-
+Github Account: jritzeku
 
 Description: 
 
